@@ -1,6 +1,6 @@
-/* esse programa pede o raio do círculo e imprime a área dele*/
-
 #include <stdio.h>
+#define PI 3.1415 
+/*o define dá um valor fixo ao pi ao longo do programa*/
 
 int main()
 {
@@ -10,8 +10,8 @@ int main()
 	printf("Entre com o valor do raio\n");
 	scanf("%f", &raio);
 
-	area = 3.14 * raio * raio;
+	area = PI * raio * raio;
 
-	printf("Esse é o valor da area = %.3f\n", area);
+	printf("Esse é o valor da área = %.3f\n", area);
 	return 0;
 }
