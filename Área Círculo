@@ -1,0 +1,18 @@
+/* esse programa pede o raio do círculo e imprime a área dele*/
+
+#include <stdio.h>
+
+int main()
+{
+	float raio, 
+              area;
+
+	printf("Entre com o valor do raio\n");
+	scanf("%f", &raio);
+
+	area = 3.14 * raio * raio;
+
+	printf("Esse é o valor da area = %.3f\n", area);
+
+	return 0;
+}
