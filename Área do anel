@@ -1,3 +1,7 @@
+/* Esse programa calcula a área de um anel, dado o raio de 2 circunferências
+A área é calculada por R2 - R1.*/
+
+
 #include <stdio.h>
 #define PI 3.1415
 
