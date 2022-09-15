@@ -1,3 +1,5 @@
+// Esse programa imprime a mensagem "Alo, mundo".
+
 #include <stdio.h>
 
 int main()
