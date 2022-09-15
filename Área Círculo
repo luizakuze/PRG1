@@ -1,6 +1,8 @@
+//Esse programa calcula a área de um círculo.
+
 #include <stdio.h>
 #define PI 3.1415 
-/*o define dá um valor fixo ao pi ao longo do programa*/
+//o define dá um valor fixo ao pi ao longo do programa.
 
 int main()
 {
