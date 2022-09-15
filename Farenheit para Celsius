@@ -1,3 +1,5 @@
+// Esse programa converte um número em Farenheit para Celsius.
+
 #include <stdio.h>
 
 int main()
