@@ -36,7 +36,6 @@ int main()
 
 	area = area_anel(raio1, raio2);
 
-
 	printf("Esse é o valor da área do anel = %.3f\n", area);
 	return 0;
 }
