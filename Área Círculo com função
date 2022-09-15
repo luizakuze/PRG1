@@ -2,11 +2,11 @@
 #define PI 3.1415 
 
 
-float area_circulo(float praio)
+float area_circulo(float raio)
 {
 	float area;
 
-	area = PI * praio * praio;
+	area = PI * raio * raio;
 	return area;
 }
 
