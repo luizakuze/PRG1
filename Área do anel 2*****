@@ -1,0 +1,33 @@
+#include <stdio.h>
+#define PI 3.1415
+
+float area_anel(float raio_externo, float raio_interno)
+{
+	float area;
+
+	area = area_circulo(raio_externo) - area_circulo(raio_interno);
+	return area;
+
+float area_circulo(float raio)
+{
+	float area;
+
+	area = PI * raio * raio;
+	return area;
+}
+
+int main()
+{
+	float raio1, raio2
+		    area;
+	
+	printf("Usuário, insira o valor do raio do primeiro círculo\n");
+	scanf("%f", raio1);
+
+	printf("Insira o valor do raio do segundo círculo\n");
+	scanf("%f", raio2);
+
+	area = area_anel(raio1, raio2);
+
+	return 0;
+}			
