@@ -11,7 +11,7 @@ int main()
 
 	celsius = (farenheit-32)/1.8;
 
-	printf("%d\n",celsius);
+	printf("%f\n",celsius);
 
 	return 0;
 }
