@@ -17,12 +17,13 @@ float area_retangulo (float altura, float largura)
 float area_anel (float altura1, float largura1,
 	 	     float altura2, float largura2)
 {
-	/*float area_total, area_ret_maior, area_ret_menor;
+	float area_total, area_ret_maior, area_ret_menor;
 	area_ret_maior = area_retangulo(altura1, largura1);
 	area_ret_menor = area_retangulo(altura2, largura2);
-	area_total = area_ret_maior - area_ret_menor;*/
+	area_total = area_ret_maior - area_ret_menor;
+	return area_total;
 	
-	return area_retangulo(altura1, largura1) - area_retangulo(altura2, largura2);	
+	//return area_retangulo(altura1, largura1) - area_retangulo(altura2, largura2);	
 }
 
 
