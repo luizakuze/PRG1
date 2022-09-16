@@ -1,3 +1,7 @@
+/* Esse programa calcula a área de um anel retangular dado
+os 2 lados da circunferência menor e os 2 lados da circunferência maior.
+Na função main, há o teste das duas outras funções*/
+
 #include <stdio.h>
 
 
@@ -29,7 +33,7 @@ int main ()
 		area;
 	
 
-	//teste função 1
+	//teste função area_retangulo
 	printf("TESTE ÁREA CÍRCULO!! Insira o valor da altura de um círculo:\n");
 	scanf("%f", &altura1);
 	
@@ -38,10 +42,10 @@ int main ()
 	
 	area = area_retangulo(altura1, largura1);
 
-	printf("A área do retângulo teste é %f :)\n", area);
+	printf("A área do retângulo teste é %.3f :)\n", area);
 
 
-	//função 2
+	//função area_anel
 	printf("Usuário, insira o valor da altura do círculo maior:\n");
 	scanf("%f", &altura1);
 
@@ -56,6 +60,6 @@ int main ()
 
 	area = area_anel(altura1, largura1, altura2, largura2);
 	
-	printf("A área do anel retangular é %f :)\n", area);
+	printf("A área do anel retangular é %.3f :)\n", area);
 	return 0;
 }
