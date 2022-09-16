@@ -36,7 +36,6 @@ int main ()
 	//teste função area_retangulo
 	printf("TESTE ÁREA RETÂNGULO!! Insira o valor da altura de um círculo:\n");
 	scanf("%f", &altura1);
-	
 	printf("Insira o valor da largura:\n");
 	scanf("%f", &largura1);
 	
