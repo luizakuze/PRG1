@@ -9,7 +9,7 @@ int main()
 
 	printf("Entre com os valores de a, b, c: ");
 	scanf("%f %f %f", &a, &b, &c);
-	delta = b * b + 4 * a * c;	
+	delta = b * b - 4 * a * c;	
 
 	if (delta > 0) {
 		printf("A equação possui 2 raízes reais e distintas\n");
