@@ -5,7 +5,7 @@
 int main()
 {
 	int soma, contador;
-	soma = 0;
+	soma = 0; // elemento neutro da soma
 
 	contador = 1;
 	while (contador < 101) {
