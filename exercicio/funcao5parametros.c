@@ -17,7 +17,15 @@ float calculo_media (int a, int b, int c, int lim_inf, int lim_sup)
 {
 	int soma, funcao, num_termos, x;
 	float media;
-
+	
+	// teste da consistência de limites, inverter caso necessário
+	if (lim_inf > lim_sup) {
+		int aux;
+		aux = lim_sup;
+		lim_sup = lim_inf;
+		lim_inf = aux;
+	}
+	
 	soma = 0;
 	for ( x = lim_inf; x <= lim_sup; x++ ) {
 		funcao = a * x * x + b * x + c; 
