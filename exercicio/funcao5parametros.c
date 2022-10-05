@@ -46,7 +46,7 @@ int main()
 	printf("A média é %.3f\n", media);
 
 	/*Efetuar os testes restantes do programa
-
+	
 	media = calculo_media(2, 3, 1, 0, 3);
 	printf("A média é %.3f\n", media);
 	media = calculo_media(2, 3, 1, 3, 0);
