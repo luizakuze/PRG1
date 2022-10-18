@@ -1,7 +1,7 @@
 /* O programa lê 5 números inteiros para um vetor de inteiros (VET1) e
 computa um segundo vetor (VET2) que é o resultado da multiplicação do
 primeiro vetor por um escalar inteiro 5. 
-Em seguida, o prograa calcula a média desses vetores. */
+Em seguida, o programa calcula a média desses vetores. */
 
 #include <stdio.h>
 
