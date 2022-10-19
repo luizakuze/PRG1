@@ -72,7 +72,9 @@ int main()
     printf("Início da entrada de dados para o vetor y\n");
     ler_dados(y);
     
-    /* utilizar o "*" na frente do parâmetro para passar o seu ENDEREÇO e não copiar o conteúdo. */
+    /* utilizar o "&" na frente do parâmetro que será recebido pela função, 
+    tem função de para passar o ENDEREÇO da variável e não copiar o conteúdo.
+    Aqui, a variável da main assume o mesmo valor da variável da função*/
     
     media = media_maior_menor2(y, &major, &minor);
     printf("Media %.2f\n",media);
