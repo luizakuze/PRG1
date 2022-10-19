@@ -3,7 +3,7 @@ de um vetor de inteirosa  ser fornecido pelo teclado.
 Assumindo o tamanho 10 do vetor.
 Utilizar funções para resolver o problema.
 
-OBS: A entreda de dados é separada do processamento de dados.*/
+OBS: A entrada de dados é separada do processamento de dados.*/
 
 
 #include <stdio.h>
