@@ -27,6 +27,8 @@ float media_maior_menor(int aux[10])
     return media;
 }
 
+/* o "*" na frente do parâmetro significa que está sendo enviado o ENDEREÇO da variável que vai ser utilizada*/
+
 float media_maior_menor2(int aux[10], int *maior, int *menor)
 {
     int i;
@@ -69,9 +71,10 @@ int main()
 
     printf("Início da entrada de dados para o vetor y\n");
     ler_dados(y);
+    
+    /* utilizar o "*" na frente do parâmetro para passar o seu ENDEREÇO e não copiar o conteúdo. */
+    
     media = media_maior_menor2(y, &major, &minor);
-    /* & passa por referência e altera o valor deles também major minor e 
-    o * recebe a refêrencia */
     printf("Media %.2f\n",media);
 
     return 0;
