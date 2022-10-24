@@ -1,5 +1,5 @@
 /* O programa calcula a média do maior e do menor número
-de um vetor de inteirosa  ser fornecido pelo teclado.
+de um vetor de inteiros a ser fornecido pelo teclado.
 Assumindo o tamanho 10 do vetor.
 Utilizar funções para resolver o problema.
 
