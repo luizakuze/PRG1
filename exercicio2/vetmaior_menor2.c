@@ -5,10 +5,8 @@ Utilizar funções para resolver o problema.
 
 OBS: A entrada de dados é separada do processamento de dados.*/
 
-
 #include <stdio.h>
 
-// maior, menor e média
 float media_maior_menor(int aux[10])
 {
     int maior, menor, i;
@@ -27,9 +25,8 @@ float media_maior_menor(int aux[10])
     return media;
 }
 
-/* o "*" na frente do parâmetro significa que está sendo enviado o ENDEREÇO da variável que vai ser utilizada*/
-
 float media_maior_menor2(int aux[10], int *maior, int *menor)
+// usar o * para receber o endereço da variável
 {
     int i;
     float media;
@@ -47,7 +44,6 @@ float media_maior_menor2(int aux[10], int *maior, int *menor)
     return media;
 }
 
-// dados
 void ler_dados(int aux[10])
 {
 
@@ -61,24 +57,16 @@ void ler_dados(int aux[10])
 
 int main()
 {
-    int x[10], y[10], major, minor;
+    int x[10] = {10, 2, 3, 4, 5, 8, 35, 1, 0},
+        y[10] = {1, 2, 92, 12, 5, 67, 2, 9, 11};
+
+    int major, minor;
     float media;
 
-    printf("Início da entrada de dados para o vetor x\n");
-    ler_dados(x);
-    media = media_maior_menor(x);
-    printf("Media %.2f\n",media);
-
-    printf("Início da entrada de dados para o vetor y\n");
-    ler_dados(y);
-    
-    /* utilizar o "&" na frente do parâmetro que será enviado para a função, 
-    tem o intuito de passar o ENDEREÇO da variável e não copiar o seu conteúdo.
-    Aqui, a variável da main assumirá o mesmo valor que o parâmetro da função com o
-    "*" receber durante a execução do programa. */
-    
     media = media_maior_menor2(y, &major, &minor);
-    printf("Media %.2f\n",media);
+    // usar o & para passar o endereço da variável
+
+    printf("A média é %.2f\n", media);
 
     return 0;
 }
