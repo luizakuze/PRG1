@@ -16,10 +16,17 @@ float produto_escalar(float x[], float y[], int n)
 
 int main()
 {
+    float produto;
     float x[5] = {1.7, 2.5, 3.6, 4.9, 5.5},
           y[5] = {2.4, 2.4, 2.2, 2.1, 2.3};
-    float produto;
 
+    float z[5] = {12.8, 52.5, 32.6, 41.9, 52.5},
+          m[5] = {2.4, 2.3, 2.2, 2.2, 2.3}; 
+
+    // 1 teste
+    produto = produto_escalar(x, y, 5);
+    printf("O produto escalar entre X e Y é %.2f\n", produto);
+    // 2 teste
     produto = produto_escalar(x, y, 5);
     printf("O produto escalar entre X e Y é %.2f\n", produto);
 
