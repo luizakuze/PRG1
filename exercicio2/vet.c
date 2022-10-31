@@ -1,3 +1,5 @@
+// O programa pede para o usuário entrar com um vetor de tamanho 5.
+
 #include <stdio.h> 
 
 int main()
