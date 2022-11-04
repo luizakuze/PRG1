@@ -14,7 +14,6 @@ int conta_vogais (char palavra[])
             num_vog++;
         i++;
     }
-
     return num_vog;
 }
 
