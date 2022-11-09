@@ -1,4 +1,4 @@
-//ESse programa imprime a área de dois círculos, dados 2 raios.
+//Esse programa imprime a área de dois círculos, dados 2 raios.
 
 #include <stdio.h>
 #define PI 3.1415 
