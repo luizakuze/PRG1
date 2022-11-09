@@ -1,4 +1,5 @@
-/* O programa tem uma função que calcula a média entre todos os números entre dois valores inteiros passados como parâmetro. A função deve retornar a média. Incluir um teste da função. */
+/* O programa tem uma função que calcula a média entre todos os números entre dois valores inteiros passados como parâmetro.
+A função deve retornar a média. Incluir um teste da função. */
 
 #include <stdio.h>
 
