@@ -1,4 +1,4 @@
-/* Esse programa calcula a área de um anel retangular dado
+/* Esse programa calcula a área de um anel retangular dados
 os 2 lados da circunferência menor e os 2 lados da circunferência maior.
 Na função main, há o teste das duas outras funções*/
 
