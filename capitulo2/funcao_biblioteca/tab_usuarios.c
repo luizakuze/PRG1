@@ -10,10 +10,10 @@ int comparacao (char tabela[4][10], char str[])
 {
     int i;
     
-    for (i=0;i<4;i++) {
+    for (i=0;i<4;i++) 
         if (strcmp (&tabela[i][0], str) == 0) 
             break; 
-    }
+    
     if (i == 4)
         return -1;
     else 
@@ -23,10 +23,14 @@ int comparacao (char tabela[4][10], char str[])
 int main()
 {
     char tabela_usuarios[4][10] = {"joao", "maria", "jose", "lara" };
-    char str[10] = "joao";
     int ret;
 
-    ret = comparacao (tabela_usuarios, str);
+    // teste para retorno = 0
+    ret = comparacao (tabela_usuarios, "joao");
+    printf("%d\n", ret);
+
+    // teste para retorno = -1
+    ret = comparacao (tabela_usuarios, "luiza");
     printf("%d\n", ret);
 
     return 0;
