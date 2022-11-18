@@ -7,7 +7,6 @@ utilizando a "strlen" e "strcpy" */
 int main()
 {
     char x[10] = "ifsc", y[10] = "-sj";
-    int termina_string;
 
     strcpy(&x[strlen(x)], y);
 
