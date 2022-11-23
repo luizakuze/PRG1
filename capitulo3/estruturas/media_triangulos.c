@@ -15,15 +15,15 @@ int main()
     struct tipo_retangulo retA, retB;
 
     //entrada de dados ret A
-    printf("Ler lado 1\n");
+    printf("Ler lado 1 - retA\n");
     scanf("%f", &retA.lado1);
-    printf("Ler lado 2\n");
+    printf("Ler lado 2 - retA\n");
     scanf("%f", &retA.lado2);
 
     //entrada de dados ret B
-    printf("Ler lado 1\n");
+    printf("Ler lado 1 - retB\n");
     scanf("%f", &retB.lado1);
-    printf("Ler lado 2\n");
+    printf("Ler lado 2 - retB\n");
     scanf("%f", &retB.lado2);
 
     //calcula as área e média
