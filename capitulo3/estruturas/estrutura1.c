@@ -1,3 +1,5 @@
+// O programa tem um struct de um usuário de um sistema
+
 #include <stdio.h>
 
 int main()
