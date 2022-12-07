@@ -1,3 +1,15 @@
+/* O exercício 3 é uma outra versão do "exercicio2.c".
+
+O programa tem um menu de opções do seguinte formato:
+(1) Para desenhar uma linha com largura e preenchimento configurável
+(2) Para desenhar um retângulo cheio configurável
+(3) Para desenhar uma triângulo
+(4) Encerrar o programa
+
+Deve ser feito uma função para as opções 1, 2, 3 do programa. Além de utilizar o
+comando switch para fazer o menu.
+*/
+
 #include <stdio.h>
 
 void linha (int largura, char caracter)
