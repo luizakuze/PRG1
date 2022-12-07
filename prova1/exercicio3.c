@@ -1,4 +1,14 @@
-/**/
+/* O exercício 3 é uma outra versão do "exercicio1.c".
+
+Em que foi pedido um programa que calcula uma função C 
+para caclular o valor de uma função, dada por:
+f(x)= {5x² + 3 , x > 10}
+      {-3x² - 1, x <= 10}
+      
+Uma outra função C, essa para o cálculo de f(x) dado um intervalo.
+
+É requisito 2 testes de cada função. Além do teste que foi
+dado pelo professor no esqueleto do programa. */
 
 #include <stdio.h>
 #include <math.h>
