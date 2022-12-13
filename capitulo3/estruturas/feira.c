@@ -1,6 +1,6 @@
 /* PROGRAMA NÃO FINALIZADO!! 
-O programa é meu estudo referente a estruturas em C.
-Foi feiro o struct para administrar uma feira */
+O programa é o estudo referente a estruturas em C.
+Foi feito o struct para administrar uma feira */
 
 #include <stdio.h>
 #include <string.h>
