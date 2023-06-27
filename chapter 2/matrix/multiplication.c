@@ -1,4 +1,4 @@
-/* O programa lê duas matrizes (matA e matB) e as multiplica, colocando o resultado em uma matriz matC.
+/* O programa lê duas matrizes (matA e matB) e as multiplica, colocando o resultado em uma matrix matC.
 Assumindo dimensões de matA e matB de 2x3*/
 
 int main()

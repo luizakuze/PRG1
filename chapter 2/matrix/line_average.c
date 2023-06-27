@@ -1,4 +1,4 @@
-/* O programa calcula a média de todos os elementos da matriz e imprime
+/* O programa calcula a média de todos os elementos da matrix e imprime
 a média de uma linha */
 
 #include <stdio.h>

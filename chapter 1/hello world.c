@@ -1,4 +1,4 @@
-// Esse programa imprime a mensagem "Alo, mundo".
+// Imprime a mensagem "Alo, mundo".
 
 #include <stdio.h>
 
