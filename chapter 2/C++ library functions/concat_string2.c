@@ -1,5 +1,5 @@
 /* O programa aplica a função de concatenação de 2 strings sem utilizar a função "strcpy", 
-utilizando a "strlen" e "strcpy" */
+utilizando a "strlen" e "strlen" */
 
 #include <stdio.h>
 #include <string.h>
