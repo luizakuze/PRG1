@@ -6,7 +6,7 @@ Este é o meu repositório de exercícios para a disciplina 'Programação 1' do
 - **parte-01:** Lógica de programação, variáveis ​​e loops.
 - **parte-02:** Arrays, strings, matrizes e funções de biblioteca.
 - **parte-03:** Estruturas, manipulação de arquivos e ponteiros.
-- **prova-01:** Prova de "parte-1".
-- **prova-02:** Prova de "parte-2".
-- **prova-03:** Prova de "parte-3".
+- **prova-01:** Prova da primeira parte.
+- **prova-02:** Prova da segunda parte.
+- **prova-03:** Prova da terceira parte.
 - **monitoria:** Minha revisão da disciplina para me inscrever para monitoria! 🚀
