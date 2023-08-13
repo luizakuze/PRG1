@@ -65,3 +65,6 @@ dentro de uma função e seu uso se restringe a essa própria função.
 - Legibilidade;
 - Permite reutilização do código;
 - Facilita a manutenção.
+
+## Matrizes e vetores como parâmetros 📊
+Em C, vale relembrar que os vetores e matrizes já são passados por referência como parâmetros. <br> Não é necessário o * e &.
