@@ -5,9 +5,6 @@ int num_vogais(char *p) {
     
     while (*p) {
         char c = *p;
-        // Converte o caractere para letra minúscula para facilitar a verificação
-        if (c >= 'A' && c <= 'Z')
-            c = c + ('a' - 'A');
             
         // Verifica se o caractere é uma vogal
         if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u')
