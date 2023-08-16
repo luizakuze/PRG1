@@ -1,4 +1,4 @@
-# Perguntas e desafios C
+# Desafios
 
 ## Imprimir 'Hello World' sem utilizar ';' 🦋
 
@@ -21,6 +21,8 @@ int main() {
   a = a - b;
 }
 ```
+
+# Conteúdo
 
 ## O que é um array e por que utilizar? 🌷
 
@@ -68,3 +70,36 @@ dentro de uma função e seu uso se restringe a essa própria função.
 
 ## Matrizes e vetores como parâmetros 📊
 Em C, vale relembrar que os vetores e matrizes já são passados por referência como parâmetros. <br> Não é necessário o * e &.
+
+# Perguntas
+
+## Experiência com programação e monitoria. 🌼
+Conheci a programação na segunda fase. Depois de um semestre turbulento, onde eu não sabia muito bem o que estava acontecendo no curso. Foi em programação 1 que entendi que estava no caminho certo. 
+
+## Quais linguagens de programação você domina? 👓
+C e C++ <br> Iniciando atualmente java. <br> Markdown 
+
+## Como se mantém atualizado sobre últimas tendências e tecnologias na área de programação? 🐾
+- Github Trending (por emails, às vezes chego a abrir mesmo no próprio github)
+- Dev.to
+- Email todos os dias - Filipe Deschamps
+
+## Um aluno está com dificuldade para entender um conceito, o que fazer? 🌷
+Procuro um exemplo prático, trazer pro cotidiano. Trazer a programação pro mundo físico, além do computador. Utilizar alguma analogia com algum outro conceito que o aluno já sabe. Incentivar ele a participar de uma discussão sobre o conceito.
+
+## Você está com uma dúvida na programação, ao que vc recorre? 🦋
+1) Se for sintaxe, a documentação da linguagem - no c++: `cplusplus.com`
+2) Se for uma dúvida do conteúdo passado dem aula, minhas próprias anotações markdown
+3) Chatgpt para procurar uma nova função da linguagem
+
+## Como você se prepara para conduzir uma sessão de monitoria? Quais são os passos que você segue? 📚
+1) Vejo qual é a dúvida
+2) Reviso os conceitos das aulas atuais
+3) Relaciono o contéudo das aulas com o problema e como transcrever pra código
+4) Recomendo exercícios adicionais
+
+##  Além da parte técnica, como você acredita que pode contribuir para a formação dos alunos como futuros programadores? 🎇
+Mostrar pro aluno que o computador é lindo, assim como a programação. Que às vezes temos ideias incríveis, mas nós humanos não somos capazes de executar ela com sua plenitude. Então, mostrar que você pode converter sua ideia em um código e fazer acontecer.
+
+## O que seria um sucesso da sua monitoria? 💗
+Engajamento do aluno, mostrar que entende o assunto. Fazer ele refletir sobre o que aprendeu e quais as possibilidade novas que abrem quando ele entende aquele conteúdo na programação. 
