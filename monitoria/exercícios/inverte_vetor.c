@@ -1,5 +1,24 @@
 #include <stdio.h>
 
+/*
+// forma não tão eficiente
+void inverte (int vet[]) {
+
+    int aux[10];
+
+    for (int i = 0; i < 10; i++) {
+        aux[i] = vet[i];
+    }
+
+    for (int i = 0; i < 10; i++) {
+        for (int j = 9; j >= 0; j--) {
+            vet[i] = aux[j];
+            i++;
+        }
+    }
+}
+*/
+
 // função para inverter a ordem do vetor
 void inverte (int vet[]) {
     int aux[10];
