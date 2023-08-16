@@ -89,7 +89,7 @@ Procuro um exemplo prático, trazer pro cotidiano. Trazer a programação pro mu
 
 ## Você está com uma dúvida na programação, ao que vc recorre? 🦋
 1) Se for sintaxe, a documentação da linguagem - no c++: `cplusplus.com`
-2) Se for uma dúvida do conteúdo passado dem aula, minhas próprias anotações markdown
+2) Se for uma dúvida do conteúdo passado em aula, minhas próprias anotações markdown
 3) Chatgpt para procurar uma nova função da linguagem
 
 ## Como você se prepara para conduzir uma sessão de monitoria? Quais são os passos que você segue? 📚
