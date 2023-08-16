@@ -102,7 +102,7 @@ Procuro um exemplo prático, trazer pro cotidiano. Trazer a programação pro mu
 Mostrar pro aluno que o computador é lindo, assim como a programação. Que às vezes temos ideias incríveis, mas nós humanos não somos capazes de executar ela com sua plenitude. Então, mostrar que você pode converter sua ideia em um código e fazer acontecer.
 
 ## O que seria um sucesso da sua monitoria? 💗
-Engajamento do aluno, mostrar que entende o assunto. Fazer ele refletir sobre o que aprendeu e quais as possibilidade novas que abrem quando ele entende aquele conteúdo na programação. 
+Engajamento do aluno e mostrar que entende o assunto. Ver um aluno que tinha bastante dúvidas e que talvez não gostasse tanto da matéria, convertido em um aluno com um melhor desempenho acadêmico. Sei que não vai dar de encantar todos com o programação, mas que essas pessoas pelo menos dominem o conteúdo e consigam avançar no curso. E aos que se abrirem pra programação, irem muito além das aulas de programação 1 e aprender mais conteúdos e assuntos.
 
 ## Por que seria você a melhor para a vaga?
 Pois além de eu conseguir resolver a dúvida do aluno, vou querer que ele entenda essa ideia de mudar o mundo com a programação. Vou incentivar ele mesmo a ir mais longe, a tentar sempre estar um passo a frente da matéria. 
