@@ -103,3 +103,6 @@ Mostrar pro aluno que o computador é lindo, assim como a programação. Que às
 
 ## O que seria um sucesso da sua monitoria? 💗
 Engajamento do aluno, mostrar que entende o assunto. Fazer ele refletir sobre o que aprendeu e quais as possibilidade novas que abrem quando ele entende aquele conteúdo na programação. 
+
+## Por que seria você a melhor para a vaga?
+Pois além de eu conseguir resolver a dúvida do aluno, vou querer que ele entenda essa ideia de mudar o mundo com a programação. Vou incentivar ele mesmo a ir mais longe, a tentar sempre estar um passo a frente da matéria. 
