@@ -104,5 +104,10 @@ Mostrar pro aluno que o computador é lindo, assim como a programação. Que às
 ## O que seria um sucesso da sua monitoria? 💗
 Engajamento do aluno e mostrar que entende o assunto. Ver um aluno que tinha bastante dúvidas e que talvez não gostasse tanto da matéria, convertido em um aluno com um melhor desempenho acadêmico. Sei que não vai dar de encantar todos com o programação, mas que essas pessoas pelo menos dominem o conteúdo e consigam avançar no curso. E aos que se abrirem pra programação, irem muito além das aulas de programação 1 e aprender mais conteúdos e assuntos.
 
-## Por que seria você a melhor para a vaga?
+## Por que seria você a melhor para a vaga? 🎆
 Pois além de eu conseguir resolver a dúvida do aluno, vou querer que ele entenda essa ideia de mudar o mundo com a programação. Vou incentivar ele mesmo a ir mais longe, a tentar sempre estar um passo a frente da matéria. 
+
+## Onde você se vê daqui 5 anos? 🎨
+Trabalhando com um time de desenvolvedores em um projeto inovador. Estaria com profundo domínio das linguagens e ferramentar da área que eu escolher. <br>
+Encontrar meu caminho na programação, se fala muito de frontend, backend.... Encontrar o meu lugar. <br>
+Enxergo a possibilidade de trabalhar em um ambiente internacional.
