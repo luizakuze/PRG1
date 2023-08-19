@@ -9,4 +9,4 @@ Este é o meu repositório de exercícios para a disciplina 'Programação 1' do
 - **prova-01:** Prova da primeira parte.
 - **prova-02:** Prova da segunda parte.
 - **prova-03:** Prova da terceira parte.
-- **revosão:** Minha revisão da disciplina! 🚀
+- **revisão:** Minha revisão da disciplina! 🚀
